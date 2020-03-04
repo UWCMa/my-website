@@ -3,7 +3,4 @@ Education
 
 
 Some update
-
-Now updating on update-readme branch
-
-Updated localy
+Updates made on master branch before merge
