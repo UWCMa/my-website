@@ -4,4 +4,4 @@ Education
 
 Some update
 Updates made on master branch before merge
-To check pull
+Remote commit
