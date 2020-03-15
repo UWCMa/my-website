@@ -1,5 +1,5 @@
 # my-website
 Education
 
-
-Updates are made before rebase
+One more update on git hub
+before rebase
